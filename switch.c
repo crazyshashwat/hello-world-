@@ -2,8 +2,8 @@
 int main()
 {
 int day;
-print("enter a number (1-7):");
-scanf("%d",day);
+printf("enter a number (1-7):");
+scanf("%d",&day);
 switch(day)
 {
 case 1:
